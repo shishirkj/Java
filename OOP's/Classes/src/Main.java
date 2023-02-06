@@ -23,7 +23,7 @@ public class Main{
         System.out.println(car3.name);
    // understand concept of stack and heap
 
-    // stack stores data type variables values and heap store the address or var class declared whose value is stored in objects.
+    // stack stores data type variables values and heap store the address or var class declared whose value is stored in objects.(refer in google, might be wrong explanation, ill update as i get to know more abt it.)
         var car2 = new Car();
       //  var carr = car2;
         car2.name = "Supra";
