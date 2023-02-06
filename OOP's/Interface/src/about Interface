@@ -1,0 +1,11 @@
+An `interface`is a completely "**abstract class** " that is used to group related methods with empty bodies:
+
+1.Interface - use only methods with empty bodies.
+
+2.Dependency Injection - constructor, setter, method injections.
+
+3.Interface Segregation Principle
+
+// keywords use - implements.
+
+// interfaces used to build loosely coupled, extensible, testable applications.
